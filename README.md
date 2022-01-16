@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GUMROOM
 - 👀 I’m interested in SCRIPTS for 3d stuff in mel or python. 
 - 🌱 I’m currently learning mel and Python
-- 💞️ I’m looking to collaborate on ... I'm too beginner to be able to contribute anything but
+- 💞️ I’m looking to collaborate on ... I'm too beginner to be able to contribute anything but... 
 - 📫 How to reach me ...
 
 <!---
